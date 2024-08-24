@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm [Ahmed Mohamed Soliman](https://github.com/ahmadezzat472) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
-<br />
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Soliman&hearts;++;software+Engineer+Student;I'am+interested+in+the+web+Development."></a>
+<br />
  <h4> I'm a Front-End Developer & Student in Computer Science at Helwan University </h4>
 
 **About me**
