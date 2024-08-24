@@ -12,7 +12,7 @@
 
 - ❤️  I’m excited to delve deeper into software development and artificial intelligence
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/ahmed-soliman-19901b325)
+- 💬 Ask me about anything [here](https://wa.me/qr/VSNL3YZ2LNSGC1 )
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My toolbox :
 
