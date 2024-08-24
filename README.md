@@ -2,7 +2,7 @@
 
 <br />
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Soliman&hearts;++;software+Engineer+Student;I'am+interested+in+the+web+Development."></a>
-I'm a Front-End Developer || Student in Computer Science @ Helwan University
+I'm a Front-End Developer | Student in Computer Science @ Helwan University
 
 **About me**
 
