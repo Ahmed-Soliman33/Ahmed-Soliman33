@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 Front-End Engineer Student
+- 💼 Fullstack Engineer Student
 
 - 📈  I have a strong foundation in creating intuitive and dynamic web interfaces
 
